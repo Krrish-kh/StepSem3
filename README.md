@@ -1,4 +1,4 @@
-Problem Sets Till Last Update
+Problem Sets Completed Till Last Update
 
 Week1 – Introductory String Problems**
 Lab Problems:
@@ -10,7 +10,17 @@ Lab Problems:
 - Student marks & grade calculator
 - Mini project(Rock-Paper-Scissors Game)
 Practice Problems:
-
+- String Arrays
+- String Manupulation
+- String Methods
+- Text Processor
+Homework(HW) Problems:
+- Anagram Check
+- BMI Calculator
+- Deck Of Cards
+- First Non Repeating
+- Palindrome Check
+- Unique Characters
 
 Week2 – String Operations & Performance**
 Lab Problems:
@@ -20,14 +30,14 @@ Lab Problems:
   - Caesar cipher encryption/decryption
   - Email analyzer (validation & domain statistics)
   - Text formatter with justification
-  Practice Problems:
+Practice Problems:
   - Built-in string methods
   - Word manipulations (punctuation removal, capitalization, reversing, frequencies)
   - ASCII classification & Caesar cipher
   - Performance benchmarking
   - Advanced comparison (Levenshtein distance, `intern`)
   - Utility app (menu-driven)
-  Homework(HW) Problems:
+Homework(HW) Problems:
   - Spell checker using edit distance
   - Password strength analyzer & generator
   - Text compression & decompression
