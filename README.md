@@ -40,7 +40,27 @@ Week2 – String Operations & Performance
   - File organizer & renamer
 
 Week3 – OOP Introduction, Classes and Objects
- - Car Class → Attributes, methods, object age calculation
- - Student Class → Constructors, encapsulation, letter grade system
- - BankAccount → Static vs instance, interest calculation, shared attributes
- - Library System → Composition (Library has Books) add/search/display/value
+  -Car Class → Attributes, methods, object age calculation
+  -Student Class → Constructors, encapsulation, letter grade system
+  -BankAccount → Static vs instance, interest calculation, shared attributes
+  -Library System → Composition (Library has Books), add/search/display/value
+  -Bank Account Management System
+  -Library Book Management System
+  -Employee Payroll System
+  -Vehicle Rental System
+  -Personal Finance Manager
+  -Online Shopping Cart System
+  -Hotel Reservation System
+  -Student Grade Management System
+
+Week 4 – Constructors & Java Keywords
+  -Book Class
+  -GameController
+  -AudioMixer
+  -SmartDevice
+  -Virtual Pet Evolution Simulator
+  -Medieval Kingdom Builder with Magic System
+  -Bank Account System
+  -Library Book Management
+  -Food Delivery Order
+  -Fitness Tracker
