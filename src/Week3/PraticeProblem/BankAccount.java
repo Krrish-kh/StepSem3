@@ -1,4 +1,4 @@
-package Week3;
+package Week3.PraticeProblem;
 class BankAccount {
     private static String bankName = "Global Bank";
     private static int totalAccounts = 0;

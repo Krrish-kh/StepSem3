@@ -1,4 +1,4 @@
-package Week3;
+package Week3.PraticeProblem;
 class Student {
     private int studentId;
     private String name;

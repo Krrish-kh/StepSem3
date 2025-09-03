@@ -1,4 +1,4 @@
-package Week3;
+package Week3.PraticeProblem;
 class Car {
     private String brand;
     private String model;

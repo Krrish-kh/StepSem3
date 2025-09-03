@@ -1,4 +1,4 @@
-package Week3;
+package Week3.PraticeProblem;
 import java.util.*;
 
 class Book {
