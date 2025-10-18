@@ -25,7 +25,7 @@
 25|   - String vs StringBuilder vs StringBuffer performance
 26|   - Caesar cipher encryption/decryption
 27|   - Email analyzer (validation & domain statistics)
-28|   - Text formatter with justification
+28|   - Text formatter with justification          
 29|   - Built-in string methods
 30|   - Word manipulations (punctuation removal, capitalization, reversing, frequencies)
 31|   - ASCII classification & Caesar cipher
