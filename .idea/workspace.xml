@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="00b2cc6a-073d-4456-81f0-c224116cc5b3" name="Changes" comment="inital">
+      <change afterPath="$PROJECT_DIR$/src/Week10/PraticeProblems/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week10/PraticeProblems/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week10/PraticeProblems/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/AssignmentProblem/DigitalArtGallery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/AssignmentProblem/FleetManagment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/AssignmentProblem/HospitalManagment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/AssignmentProblem/OnlineLearningPlatform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/AssignmentProblem/PriceCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/AssignmentProblem/SmartHomeAutomation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/LabProblems/DigitalArtGallery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/LabProblems/FleetManagment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/LabProblems/HospitalManagment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/LabProblems/HotelBookingSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/LabProblems/OnlineLearningPlatform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/LabProblems/SmartHomeAutomation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/PraticeProblem/Entertainment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/PraticeProblem/GameBattle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/PraticeProblem/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/PraticeProblem/Resturant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week7/PraticeProblem/SocialMediaPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/AssignmentProblem/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/AssignmentProblem/Playable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/AssignmentProblem/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/AssignmentProblem/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/LabProblems/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/LabProblems/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/LabProblems/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/LabProblems/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/PraticeProblem/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/PraticeProblem/PaymentGateway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week8/PraticeProblem/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week9/AssignmentProblem/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week9/AssignmentProblem/Discount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week9/AssignmentProblem/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week9/AssignmentProblem/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week9/AssignmentProblem/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week9/AssignmentProblem/University.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week9/LabProblem/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week9/LabProblem/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week9/LabProblem/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week9/LabProblem/MathOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week9/LabProblem/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week9/LabProblem/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week9/PraticeProblem/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week9/PraticeProblem/ContactInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week9/PraticeProblem/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week9/PraticeProblem/Hospital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week9/PraticeProblem/Notifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week9/PraticeProblem/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week9/PraticeProblem/Vehcile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week9/PraticeProblem/VotingSystem.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Krrish-kh&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Krrish-kh/StepSem3.git&quot;,
+    &quot;accountId&quot;: &quot;65cdb0ac-708c-4e0e-af4e-2512e397275b&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="31jz4jJsXljYK9qX1xSvVTsqDeZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AccessModifierDemo.executor": "Run",
+    "Application.AnagramCheck.executor": "Run",
+    "Application.BMICalculator.executor": "Run",
+    "Application.StringLength.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Admin/IdeaProjects/StepSemester3_JavaPratice",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\IdeaProjects\StepSemester3_JavaPratice\src" />
+      <recent name="C:\Users\Admin\IdeaProjects\StepSemester3_JavaPratice\src\Week1\AssigmentProblem" />
+      <recent name="C:\Users\Admin\IdeaProjects\StepSemester3_JavaPratice\.idea" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AnagramCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week1.AssignmentProblem.AnagramCheck" />
+      <module name="StepSem3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week1.AssignmentProblem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="StepSemester3_JavaPratice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="StepSemester3_JavaPratice" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AnagramCheck" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00b2cc6a-073d-4456-81f0-c224116cc5b3" name="Changes" comment="" />
+      <created>1756052083117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756052083117</updated>
+      <workItem from="1756052084538" duration="3507000" />
+      <workItem from="1756056028922" duration="743000" />
+      <workItem from="1756090083741" duration="2513000" />
+      <workItem from="1756126940554" duration="814000" />
+      <workItem from="1756912937653" duration="5594000" />
+      <workItem from="1757411763739" duration="455000" />
+      <workItem from="1757472591405" duration="333000" />
+      <workItem from="1757473584154" duration="373000" />
+      <workItem from="1757474278904" duration="316000" />
+      <workItem from="1758014405617" duration="3140000" />
+      <workItem from="1758682446553" duration="586000" />
+      <workItem from="1760622990510" duration="616000" />
+    </task>
+    <task id="LOCAL-00001" summary="inital">
+      <option name="closed" value="true" />
+      <created>1756053722209</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1756053722210</updated>
+    </task>
+    <task id="LOCAL-00002" summary="inital">
+      <option name="closed" value="true" />
+      <created>1756054733542</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1756054733542</updated>
+    </task>
+    <task id="LOCAL-00003" summary="inital">
+      <option name="closed" value="true" />
+      <created>1756055230854</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1756055230854</updated>
+    </task>
+    <task id="LOCAL-00004" summary="inital">
+      <option name="closed" value="true" />
+      <created>1756055545322</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1756055545322</updated>
+    </task>
+    <task id="LOCAL-00005" summary="inital">
+      <option name="closed" value="true" />
+      <created>1756055579179</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1756055579179</updated>
+    </task>
+    <task id="LOCAL-00006" summary="inital">
+      <option name="closed" value="true" />
+      <created>1756056772953</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1756056772953</updated>
+    </task>
+    <task id="LOCAL-00007" summary="inital">
+      <option name="closed" value="true" />
+      <created>1756090332633</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1756090332633</updated>
+    </task>
+    <task id="LOCAL-00008" summary="inital">
+      <option name="closed" value="true" />
+      <created>1756090618300</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1756090618300</updated>
+    </task>
+    <task id="LOCAL-00009" summary="inital">
+      <option name="closed" value="true" />
+      <created>1756090869146</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1756090869146</updated>
+    </task>
+    <task id="LOCAL-00010" summary="inital">
+      <option name="closed" value="true" />
+      <created>1756913274277</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1756913274277</updated>
+    </task>
+    <task id="LOCAL-00011" summary="inital">
+      <option name="closed" value="true" />
+      <created>1756913282925</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1756913282925</updated>
+    </task>
+    <task id="LOCAL-00012" summary="inital">
+      <option name="closed" value="true" />
+      <created>1756925990309</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1756925990309</updated>
+    </task>
+    <task id="LOCAL-00013" summary="inital">
+      <option name="closed" value="true" />
+      <created>1756926621282</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1756926621282</updated>
+    </task>
+    <task id="LOCAL-00014" summary="inital">
+      <option name="closed" value="true" />
+      <created>1756927253204</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1756927253204</updated>
+    </task>
+    <task id="LOCAL-00015" summary="inital">
+      <option name="closed" value="true" />
+      <created>1760798269251</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1760798269251</updated>
+    </task>
+    <task id="LOCAL-00016" summary="inital">
+      <option name="closed" value="true" />
+      <created>1760804208071</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1760804208071</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="986e9ddb-559c-49ed-bfa3-077b60e31382" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="986e9ddb-559c-49ed-bfa3-077b60e31382">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="inital" />
+    <option name="LAST_COMMIT_MESSAGE" value="inital" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Week3/AssignmentProblem/Vechile.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/.idea/Week5/PraticeProblems/SecureBankAccount.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

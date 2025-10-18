@@ -1,0 +1,42 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>Problem Sets Completed Till Last Update\r\n\r\nWeek1 – Introductory String Problems\r\n- Basic string handling (`charAt`, `length`, `substring`, etc.)\r\n- Splitting text into words\r\n- Vowel and consonant counting\r\n- Trim implementation\r\n- Voting eligibility checker\r\n- Student marks & grade calculator\r\n- Mini project(Rock-Paper-Scissors Game)\r\n- String Arrays\r\n- String Manupulation\r\n- String Methods\r\n- Text Processor\r\n- Anagram Check\r\n- BMI Calculator\r\n- Deck Of Cards\r\n- First Non Repeating\r\n- Palindrome Check\r\n- Unique Characters\r\n\r\nWeek2 – String Operations & Performance\r\n  - Manual find & replace\r\n  - ASCII-based case conversion\r\n  - String vs StringBuilder vs StringBuffer performance\r\n  - Caesar cipher encryption/decryption\r\n  - Email analyzer (validation & domain statistics)\r\n  - Text formatter with justification\r\n  - Built-in string methods\r\n  - Word manipulations (punctuation removal, capitalization, reversing, frequencies)\r\n  - ASCII classification & Caesar cipher\r\n  - Performance benchmarking\r\n  - Advanced comparison (Levenshtein distance, `intern`)\r\n  - Utility app (menu-driven)\r\n  - Spell checker using edit distance\r\n  - Password strength analyzer & generator\r\n  - Text compression & decompression\r\n  - Expression calculator with BODMAS\r\n  - CSV data analyzer\r\n  - File organizer & renamer\r\n\r\nWeek3 – OOP Introduction, Classes and Objects\r\n - Car Class → Attributes, methods, object age calculation\r\n - Student Class → Constructors, encapsulation, letter grade system\r\n - BankAccount → Static vs instance, interest calculation, shared attributes\r\n - Library System → Composition (Library has Books) add/search/display/value\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision 835643d525cdb5a35292be303361242295c87da0)
++++ b/README.md	(date 1760798793113)
+@@ -40,7 +40,27 @@
+   - File organizer & renamer
+ 
+ Week3 – OOP Introduction, Classes and Objects
+- - Car Class → Attributes, methods, object age calculation
+- - Student Class → Constructors, encapsulation, letter grade system
+- - BankAccount → Static vs instance, interest calculation, shared attributes
+- - Library System → Composition (Library has Books) add/search/display/value
++  - Car Class → Attributes, methods, object age calculation
++  - Student Class → Constructors, encapsulation, letter grade system
++  - BankAccount → Static vs instance, interest calculation, shared attributes
++  - Library System → Composition (Library has Books), add/search/display/value
++  - Bank Account Management System
++  - Library Book Management System
++  - Employee Payroll System
++  - Vehicle Rental System
++  - Personal Finance Manager
++  - Online Shopping Cart System
++  - Hotel Reservation System
++  - Student Grade Management System
++
++Week 4 – Constructors & Java Keywords
++  - Book Class
++  - GameController
++  - AudioMixer
++  - SmartDevice
++  - Virtual Pet Evolution Simulator
++  - Medieval Kingdom Builder with Magic System
++  - Bank Account System
++  - Library Book Management
++  - Food Delivery Order
++  - Fitness Tracker
