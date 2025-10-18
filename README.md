@@ -100,5 +100,3 @@ Here’s your cleaned-up and properly formatted version of the content without l
 ### 📝 Notes
 - The repository is organized week-by-week: AssignmentProblem(s), LabProblem(s), and Practice/PraticeProblem(s) folders per week.
 - Class names listed above correspond to the main tasks implemented (classes/files) for each week.
-
-Let me know if you want this turned into a README format or need a markdown version for GitHub!
