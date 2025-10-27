@@ -5,57 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00b2cc6a-073d-4456-81f0-c224116cc5b3" name="Changes" comment="inital">
-      <change afterPath="$PROJECT_DIR$/src/Week10/PraticeProblems/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week10/PraticeProblems/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week10/PraticeProblems/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/AssignmentProblem/DigitalArtGallery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/AssignmentProblem/FleetManagment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/AssignmentProblem/HospitalManagment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/AssignmentProblem/OnlineLearningPlatform.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/AssignmentProblem/PriceCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/AssignmentProblem/SmartHomeAutomation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/LabProblems/DigitalArtGallery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/LabProblems/FleetManagment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/LabProblems/HospitalManagment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/LabProblems/HotelBookingSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/LabProblems/OnlineLearningPlatform.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/LabProblems/SmartHomeAutomation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/PraticeProblem/Entertainment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/PraticeProblem/GameBattle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/PraticeProblem/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/PraticeProblem/Resturant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week7/PraticeProblem/SocialMediaPost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/AssignmentProblem/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/AssignmentProblem/Playable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/AssignmentProblem/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/AssignmentProblem/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/LabProblems/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/LabProblems/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/LabProblems/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/LabProblems/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/PraticeProblem/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/PraticeProblem/PaymentGateway.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week8/PraticeProblem/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week9/AssignmentProblem/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week9/AssignmentProblem/Discount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week9/AssignmentProblem/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week9/AssignmentProblem/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week9/AssignmentProblem/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week9/AssignmentProblem/University.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week9/LabProblem/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week9/LabProblem/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week9/LabProblem/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week9/LabProblem/MathOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week9/LabProblem/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week9/LabProblem/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week9/PraticeProblem/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week9/PraticeProblem/ContactInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week9/PraticeProblem/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week9/PraticeProblem/Hospital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week9/PraticeProblem/Notifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week9/PraticeProblem/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week9/PraticeProblem/Vehcile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week9/PraticeProblem/VotingSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week11/PraticeProblems/BrowserNavigation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week11/PraticeProblems/CustomerServiceCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week11/PraticeProblems/PrintQueueSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week11/PraticeProblems/TextEditForUndo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +69,15 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "GitExclude"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -311,7 +273,23 @@
       <option name="project" value="LOCAL" />
       <updated>1760804208071</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="inital">
+      <option name="closed" value="true" />
+      <created>1760809062765</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1760809062765</updated>
+    </task>
+    <task id="LOCAL-00018" summary="inital">
+      <option name="closed" value="true" />
+      <created>1760809218077</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1760809218077</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
