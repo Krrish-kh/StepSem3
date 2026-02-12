@@ -1,4 +1,4 @@
-### ✅ Problem Sets Completed Till Last Update
+## Problem Sets Completed Till Last Update
 
 #### Week 1 – Introductory String Problems
 - Basic string handling (`charAt`, `length`, `substring`, etc.)
